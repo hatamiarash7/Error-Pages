@@ -1,3 +1,3 @@
-# 404 page
+# 404 Page
 
 ![sc](sc.png)
